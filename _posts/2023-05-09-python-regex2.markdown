@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Re"
+title:  "Python Regex2"
 date:   2023-05-09 13:30:00 +0900
 categories: study
 ---
@@ -27,7 +27,7 @@ re.compile(pattern)을 사용하면 pattern이 정규 표현식이면 정규식 
 try-except문을 사용해 성공하면 true를 출력, 실패하면 false를 출력한다.
 
 
-{% highlight ruby %}
+{% highlight python %}
 
 try:
     m = re.compile(input)
